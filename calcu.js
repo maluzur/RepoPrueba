@@ -97,3 +97,4 @@ function actualizarDisplay(){ //asigna al display el valor(string) de opeActual
     result.value = opeActual;
 }
 
+//Comentario de prueba
